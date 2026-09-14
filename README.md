@@ -11,7 +11,7 @@ The odin-calculator is a basic web application that allows users to perform simp
 
 ## Features
 
-- Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Perform basic arithmetic operations like: addition, subtraction, multiplication, and division.
 - Clear the current input or the entire calculation.
 - Display the result of the calculation.
 - Responsive design for a seamless user experience on various devices.
@@ -36,4 +36,4 @@ To work on this project locally or further customize it, follow these steps:
 ## Acknowledgments
 
 - This project was created as part of The Odin Project's Foundation Course.
-- Special thanks to the open-source community for providing resources and inspiration.
+- Special thanks to the open-source community for providing the resources and inspiration.
