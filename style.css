@@ -1,4 +1,4 @@
-/* General Body Styling */
+                 /* General Body Styling */
 body {
   margin: 0;
   padding: 0;
@@ -12,7 +12,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-/* Calculator Container */
+                 /* Calculator Container */
 .calc-container {
   height: 500px;
   width: 400px;
@@ -29,7 +29,7 @@ body {
   box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.1);
 }
 
-/* Display Screen */
+                /* Display Screen */
 .calc-display {
   height: 100px;
   width: 360px;
@@ -46,7 +46,7 @@ body {
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Text Colors */
+               /* Text Colors */
 .previous-operand {
   font-size: 1.5rem;
   color: rgba(0, 0, 0, 0.5);
@@ -58,7 +58,7 @@ body {
   font-weight: bold;
 }
 
-/* Buttons Layout */
+               /* Buttons Layout */
 .row {
   display: flex;
   gap: 10px;
@@ -74,7 +74,7 @@ body {
   align-items: center;
 }
 
-/* Buttons Styling */
+                /* Buttons Styling */
 button {
   width: 80px;
   height: 60px;
@@ -94,7 +94,7 @@ button:hover {
   box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
 }
 
-/* Operator Buttons */
+                /* Operator Buttons */
 .operator-btn {
   background: #FFC107;
   color: white;
@@ -104,7 +104,7 @@ button:hover {
   background: #FF9800;
 }
 
-/* Equal Button */
+                 /* Equal Button */
 .equal-button {
   width: 170px;
   border-radius: 30px;
@@ -116,7 +116,7 @@ button:hover {
   background: #008573;
 }
 
-/* Footer */
+                /* Footer */
 .footer {
   position: absolute;
   bottom: 0px;
