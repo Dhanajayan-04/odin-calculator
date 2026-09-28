@@ -13,7 +13,6 @@ body {
 }
 
                  /* Calculator Container */
-
 .calc-container {
   height: 500px;
   width: 400px;
@@ -31,7 +30,6 @@ body {
 }
 
                 /* Display Screen */
-
 .calc-display {
   height: 100px;
   width: 360px;
@@ -49,7 +47,6 @@ body {
 }
 
                /* Text Colors */
-
 .previous-operand {
   font-size: 1.5rem;
   color: rgba(0, 0, 0, 0.5);
@@ -62,7 +59,6 @@ body {
 }
 
                /* Buttons Layout */
-
 .row {
   display: flex;
   gap: 10px;
@@ -79,7 +75,6 @@ body {
 }
 
                 /* Buttons Styling */
-
 button {
   width: 80px;
   height: 60px;
@@ -100,7 +95,6 @@ button:hover {
 }
 
                 /* Operator Buttons */
-
 .operator-btn {
   background: #FFC107;
   color: white;
@@ -111,7 +105,6 @@ button:hover {
 }
 
                  /* Equal Button */
-
 .equal-button {
   width: 170px;
   border-radius: 30px;
@@ -124,7 +117,6 @@ button:hover {
 }
 
                 /* Footer */
-
 .footer {
   position: absolute;
   bottom: 0px;
